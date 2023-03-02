@@ -3,6 +3,7 @@
 $token = '6094274678:AAGXpcPqDIfQ9sju8canKuUthddyeKblC1c';
 $website = 'https://api.telegram.org/bot' . $token;
 
+
 //lo que el bot recibe
 $input = file_get_contents('php://input');
 
